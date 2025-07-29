@@ -1,0 +1,63 @@
+Folder PATH listing for volume New Volume
+Volume serial number is A0E3-F041
+D:.
+¦   log.txt
+¦   
++---images
+¦       cloud01_idle.png
+¦       cloud02_idle.png
+¦       cloud03_idle.png
+¦       cloud04_idle.png
+¦       cloud05_idle.png
+¦       cloud06_idle.png
+¦       cloud07_idle.png
+¦       cloud08_idle.png
+¦       cloud09_idle.png
+¦       cloud10_idle.png
+¦       cloud11_idle.png
+¦       cloud12_idle.png
+¦       cloud13_idle.png
+¦       cloud14_idle.png
+¦       cloud15_idle.png
+¦       cloud16_idle.png
+¦       cloud17_idle.png
+¦       cloud18_idle.png
+¦       cloud19_idle.png
+¦       cloud20_idle.png
+¦       dani_jump01.png
+¦       dani_walk01.png
+¦       dani_walk02.png
+¦       dani_walk03.png
+¦       dani_walk04.png
+¦       dani_walk05.png
+¦       mountain.png
+¦       mushroom_bursting01.png
+¦       mushroom_bursting02.png
+¦       mushroom_bursting03.png
+¦       mushroom_bursting04.png
+¦       mushroom_bursting05.png
+¦       mushroom_bursting06.png
+¦       mushroom_bursting07.png
+¦       mushroom_bursting08.png
+¦       mushroom_bursting09.png
+¦       mushroom_bursting10.png
+¦       mushroom_bursting11.png
+¦       mushroom_bursting12.png
+¦       mushroom_bursting13.png
+¦       mushroom_growing01.png
+¦       mushroom_growing02.png
+¦       mushroom_growing03.png
+¦       mushroom_growing04.png
+¦       mushroom_growing05.png
+¦       mushroom_growing06.png
+¦       mushroom_growing07.png
+¦       mushroom_growing08.png
+¦       satellite_dish_signal_activating01.png
+¦       satellite_dish_signal_activating02.png
+¦       satellite_dish_signal_activating03.png
+¦       sky_background.png
+¦       
++---sounds
+        game_start.ogg
+        player_jump_groan01.ogg
+        
